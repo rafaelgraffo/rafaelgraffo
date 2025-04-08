@@ -1,5 +1,3 @@
-<img src="https://github.com/rafaelgraffo/rafaelgraffo/blob/main/avatar.png" width="150px" align="right" style="border-radius: 50%" />
-
 ## Olá! Eu sou Rafael Soares 👋
 
 🎯 Trabalho com **TIC** há mais de **10 anos**, com foco em Suporte Técnico.<br>

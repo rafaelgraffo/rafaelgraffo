@@ -13,8 +13,8 @@
 ☁️ Atualmente em **transição de carreira** para a área de **Cloud Computing**.<br>
 📚 Estudando para me tornar um **Arquiteto de Soluções AWS**.<br>
 💻 Explorando e praticando programação com **Java**, **JavaScript** e **CSS**.<br>
-br
-br
+<br>
+<br>
 ---
 🕹️ Snake commits!
 <picture>
